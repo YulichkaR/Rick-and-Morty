@@ -1,5 +1,5 @@
 # Rick-and-Morty
-	Welcome to the Rick and Morty React Application! This project is a simple React web application that utilizes the Rick and Morty API to display information about characters, episodes, and locations from the popular animated TV show.
+Welcome to the Rick and Morty React Application! This project is a simple React web application that utilizes the Rick and Morty API to display information about characters, episodes, and locations from the popular animated TV show.
 
 # Getting Started
   To get started with this project, follow these steps:
